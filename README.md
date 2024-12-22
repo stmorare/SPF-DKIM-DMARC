@@ -42,21 +42,6 @@ Email security is critical in preventing cyber threats and maintaining trust in 
 - Step-by-step guidance on best practices for email security. 🛠️
 - Real-world examples, such as the fictional `itadon.com` implementation, for practical context. 🖥️
 
-## How to Use This Repository 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/email-security-spf-dkim-dmarc.git
-   ```
-
-2. Navigate to the documentation file to learn about each protocol:
-   ```bash
-   cd email-security-spf-dkim-dmarc
-   open documentation.md
-   ```
-
-3. Implement the protocols in your email infrastructure following the best practices and examples provided. ✅
-
 ## Credits 🙌
 
 This documentation is inspired by [itadon.com](https://itadon.com/), which offers insights into email security and related best practices. 🌐
@@ -64,7 +49,3 @@ This documentation is inspired by [itadon.com](https://itadon.com/), which offer
 ## Contributing 🤝
 
 Contributions are welcome! If you have improvements, suggestions, or additional examples to share, feel free to submit a pull request. 💡
-
-## License 📜
-
-This project is licensed under the MIT License. See the LICENSE file for details. 🔓
